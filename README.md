@@ -1,6 +1,11 @@
 # Lumina AI 🤖
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI-Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Powered%20by-Gemini%20AI-00A67E?style=for-the-badge" />
+</p>
+
+<p align="center">
   <img src="https://github.com/arisbwicaksono/lumina-ai/blob/b410cd18bd06eccbaebe4be7633df6df3f7fc020/Layout%20Lumina%20Ai.jpg?raw=true" width="900"/>
 </p>
 
