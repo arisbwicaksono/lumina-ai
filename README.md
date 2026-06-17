@@ -79,3 +79,5 @@ http://localhost:5174
 
 ## ✨ Penutup
 Lumina AI adalah project pembelajaran AI modern yang menggabungkan UX sederhana dengan kemampuan AI generatif untuk membantu proses belajar menjadi lebih cepat, jelas, dan efektif.
+
+Aplikasi ini ditenagai oleh **Google Gemini AI** dan dikembangkan oleh **Aris Budi Wicaksono**.
